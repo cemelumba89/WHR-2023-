@@ -14,5 +14,5 @@ The project files are divided between the following folders:
    ● 04 Analysis: Contains Visualizations
    ● 05 Sent to Client: Contains Portfolio Presentation (WHR 2023 is listed as Project #6)
 # Full Presentation
-Access to the full presentation may be found on Tableau Public at the following link: Understanding Happiness (WHR 2023) - Tableau Public 
+Access to the full presentation may be found on Tableau Public at the following link: Understanding Happiness (WHR 2023) - Tableau Public. 
 *If link does not link, please copy - (https://public.tableau.com/app/profile/chinwendu.emelumba/viz/UnderstandingHappinessAGlobalPerspectiveWHR2023/WHR2023)
